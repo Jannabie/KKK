@@ -13,7 +13,7 @@ Repositori ini berisi semua tools yang dibutuhkan untuk menerjemahkan Kajiri Kam
 | Title Screen / UI Frame | Selesai | SVG messageframe sudah dimodifikasi |
 | Patch Dapat Dijalankan | Ya | — |
 
-| Keberhasilan |
+| Kajiri Kamui Kagura Akebono no Hikari 神咒神威神楽 曙之光 ダウンロード版 Kajiri |
 |:---:|
 | ![Translation working in-game](https://i.imgur.com/x4kWxLV.jpeg) |
 
