@@ -1,4 +1,4 @@
-# Kajiri Kamui Kagura — Alat Terjemahan Indonesia
+# Kajiri Kamui Kagura — ToolKit
 
 Repositori ini berisi semua tools yang dibutuhkan untuk menerjemahkan Kajiri Kamui Kagura ke Bahasa Indonesia menggunakan Malie Script Tool.
 
@@ -13,9 +13,9 @@ Repositori ini berisi semua tools yang dibutuhkan untuk menerjemahkan Kajiri Kam
 | Title Screen / UI Frame | Selesai | SVG messageframe sudah dimodifikasi |
 | Patch Dapat Dijalankan | Ya | — |
 
-Bukti terjemahan berjalan:
-
-![Proof](https://i.imgur.com/x4kWxLV.jpeg)
+| Keberhasilan |
+|:---:|
+| ![Translation working in-game](https://i.imgur.com/x4kWxLV.jpeg) |
 
 ---
 
