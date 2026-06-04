@@ -17,6 +17,10 @@ Repositori ini berisi semua tools yang dibutuhkan untuk menerjemahkan Kajiri Kam
 |:---:|
 | ![Translation working in-game](https://i.imgur.com/x4kWxLV.jpeg) |
 
+| Horizontal Patch |
+|:---:|
+| ![Horizontal](https://i.imgur.com/DYo45m9.jpeg) |
+
 | Font Rekomendasi | Kenyamanan | Keterangan |
 |----------|--------|------------|
 | MS ゴシック | Sangat | Default font |
