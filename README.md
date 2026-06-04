@@ -38,7 +38,7 @@ Ada dua folder repo, masing-masing untuk mode teks yang berbeda:
 
 | | Vertikal | Horizontal |
 |--|--|--|
-| Arah teks | Vertikal (kanan ke kiri) | Horizontal (kiri ke kanan) |
+| Arah teks | Vertikal (ADV lurus) | Horizontal (ADV menyamping) |
 | Folder messageframe | SVG dimodifikasi per tipe | Semua pakai `normal` |
 | Edit nama karakter | `exec.str.txt` | `exec.str.txt` |
 | Edit dialog | `exec.msg.txt` | `exec.msg.txt` |
