@@ -266,6 +266,8 @@ KKK-main\
                 └── .data\system\       ← BUAT MANUAL (Vertikal); sudah ada (Horizontal)
                     └── exec.dat        ← hasil compile
 ```
+## Choice + Backlog fix
+https://github.com/Akaruzi/dies_aitrans/issues/4#issuecomment-4153823883
 
 ---
 
