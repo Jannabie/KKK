@@ -11,7 +11,7 @@ Tools untuk menerjemahkan Kajiri Kamui Kagura ke Bahasa Indonesia menggunakan Ma
 | Dialog utama (`exec.msg.txt`) | Editable |
 | Menu & nama (`exec.str.txt`) | Editable |
 | Title Screen / UI Frame | Soon |
-| Patching |  Aman |
+| Toolkit Patching |  Selesai |
 
 | Kajiri Kamui Kagura Akebono no Hikari (神咒神威神楽 曙之光 ダウンロード版) |
 |:---:|
