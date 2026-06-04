@@ -13,7 +13,7 @@ Tools untuk menerjemahkan Kajiri Kamui Kagura ke Bahasa Indonesia menggunakan Ma
 | Title Screen / UI Frame | Selesai |
 | Patch Dapat Dijalankan |  Ya |
 
-| Kajiri Kamui Kagura Akebono no Hikari |
+| Kajiri Kamui Kagura Akebono no Hikari (神咒神威神楽 曙之光 ダウンロード版) |
 |:---:|
 | ![Translation working in-game](https://i.imgur.com/x4kWxLV.jpeg) |
 
