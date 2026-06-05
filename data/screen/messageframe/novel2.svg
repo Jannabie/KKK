@@ -7,8 +7,6 @@
 			<feBlend mode='screen' in2='BackgroundImage' in='SourceGraphic'/>
 		</filter>
 	</defs>
-	<g id='hideframe'>
-		<image id='base' x='0' y='0' width='256' height='600' xlink:href='./normal_l_frame.png' opacity='1'/>
-		<ui:custom id='message' x='0' y='30' width='246' height='564'/>
-	</g>
+	<image id='base' x='341' y='0' width='683' height='600' xlink:href='./img/novel2.png'/>
+	<ui:custom id='message' x='365' y='100' width='547' height='400'/>
 </svg>
