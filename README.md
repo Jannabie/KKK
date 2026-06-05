@@ -19,7 +19,7 @@ Tools untuk menerjemahkan Kajiri Kamui Kagura ke Bahasa Indonesia menggunakan Ma
 
 | Horizontal Patch |
 |:---:|
-| ![Horizontal](https://i.imgur.com/DYo45m9.jpeg) |
+| ![Horizontal](https://i.imgur.com/9PHxZ8Z.jpeg) |
 
 | Font Rekomendasi | Keterangan |
 |------------------|------------|
